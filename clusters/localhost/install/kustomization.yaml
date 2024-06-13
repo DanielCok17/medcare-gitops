@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
 - ../../../apps/medcare-ambulance-ufe
+
+components:
+- ../../../components/version-developers
