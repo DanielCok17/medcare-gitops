@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: danielcok17/medcare-ufe
   newName: danielcok17/medcare-ufe
-  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 
 replacements:
  - targets:
