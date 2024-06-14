@@ -9,7 +9,7 @@ spec:
                      # module web komponentu pre tento mikroFE
                      # - umiestnený v namespace wac-hospital
   navigation:
-    - element: medcare-wl-app    # element, ktorý bude vložený na stránku medcare-medical-app or medcare-ambulance-wl-app
+    - element: medcare-homescreen    # element, ktorý bude vložený na stránku medcare-medical-app or medcare-ambulance-wl-app
                                     # pri navigácii na zoznam čakajúcich
       attributes:
       - name: api-base
