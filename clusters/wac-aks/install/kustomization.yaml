@@ -9,6 +9,7 @@ commonLabels:
 
 resources:
  - ../../../apps/medcare-ambulance-ufe
+ - ../../../apps/medcare-ambulance-webapi
 
 
 components:
