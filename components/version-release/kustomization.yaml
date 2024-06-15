@@ -6,7 +6,7 @@ images:
   newTag: 1.2.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: danielcok17/medcare-webapi
   newName: danielcok17/medcare-webapi
-  newTag: 1.1.0
+  newTag: 1.1.1
 
 replacements:
  - targets:
