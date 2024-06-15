@@ -10,6 +10,11 @@ commonLabels:
 
 resources:
 - ../../../apps/medcare-ambulance-ufe
+- ../../../apps/medcare-ambulance-webapi
 
 components:
 - ../../../components/version-developers
+- https://github.com/DanielCok17/medcare-webapi//deployments/kustomize/components/mongodb
+
+patches:
+- path: patches/medcare-webapi.service.yaml
