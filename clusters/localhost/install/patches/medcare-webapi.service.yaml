@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
- name: medcare-webapi
+ name: medcare-ambulance-webapi
 spec:
  type: NodePort
  ports:

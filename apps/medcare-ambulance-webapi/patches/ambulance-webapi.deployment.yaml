@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: medcare-webapi
+  name: medcare-ambulance-webapi
 spec:
   template:
     spec:
